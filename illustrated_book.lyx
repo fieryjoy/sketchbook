@@ -135,7 +135,7 @@ status open
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename ./graphics/grandfathers.svg
+	filename graphics/grandfathers.svg
 	scale 60
 	rotateOrigin center
 
@@ -188,7 +188,7 @@ status open
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename ./graphics/beetle_car.svg
+	filename graphics/beetle_car.svg
 	scale 50
 
 \end_inset
@@ -238,7 +238,7 @@ status open
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename ./graphics/flowers.svg
+	filename graphics/flowers.svg
 	scale 55
 	rotateOrigin center
 
@@ -294,7 +294,7 @@ status open
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename ./graphics/sisters.svg
+	filename graphics/sisters.svg
 	scale 50
 
 \end_inset
@@ -345,7 +345,7 @@ status open
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename ./graphics/museum.svg
+	filename graphics/museum.svg
 	scale 50
 
 \end_inset
@@ -402,7 +402,7 @@ status open
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename ./graphics/summer.svg
+	filename graphics/summer.svg
 	scale 60
 
 \end_inset
@@ -453,7 +453,7 @@ status open
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename ./graphics/youth.svg
+	filename graphics/youth.svg
 	scale 60
 
 \end_inset
@@ -505,7 +505,7 @@ status open
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename ./graphics/living_room.svg
+	filename graphics/living_room.svg
 	scale 50
 	scaleBeforeRotation
 	rotateAngle 90
@@ -558,7 +558,7 @@ status open
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename ./graphics/horse.svg
+	filename graphics/horse.svg
 	scale 50
 	scaleBeforeRotation
 
@@ -611,7 +611,7 @@ status open
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename ./graphics/joy.svg
+	filename graphics/joy.svg
 	scale 60
 
 \end_inset
@@ -660,7 +660,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename ./graphics/sleep.svg
+	filename graphics/sleep.svg
 	scale 40
 
 \end_inset
@@ -709,7 +709,7 @@ status open
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename ./graphics/musician.svg
+	filename graphics/musician.svg
 	scale 50
 
 \end_inset
@@ -759,7 +759,7 @@ status open
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename ./graphics/hubby.svg
+	filename graphics/hubby.svg
 	scale 50
 
 \end_inset
@@ -808,7 +808,7 @@ status open
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename ./graphics/uncle.svg
+	filename graphics/uncle.svg
 	scale 60
 
 \end_inset
@@ -857,7 +857,7 @@ status open
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename ./graphics/female_boxer.svg
+	filename graphics/female_boxer.svg
 	scale 50
 
 \end_inset
@@ -910,7 +910,7 @@ status open
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename ./graphics/birdie.svg
+	filename graphics/birdie.svg
 	scale 50
 
 \end_inset
@@ -966,7 +966,7 @@ status open
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename ./graphics/tulips.svg
+	filename graphics/tulips.svg
 	scale 50
 
 \end_inset
@@ -1017,7 +1017,7 @@ status open
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename ./graphics/budha.svg
+	filename graphics/budha.svg
 	scale 50
 
 \end_inset
@@ -1072,7 +1072,7 @@ status open
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename ./graphics/autoportret.svg
+	filename graphics/autoportret.svg
 	scale 40
 
 \end_inset
@@ -1124,7 +1124,7 @@ status open
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename ./graphics/pretty_lady.svg
+	filename graphics/pretty_lady.svg
 	scale 50
 
 \end_inset
@@ -1173,7 +1173,7 @@ status open
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename ./graphics/giani.svg
+	filename graphics/giani.svg
 	scale 50
 
 \end_inset
@@ -1224,7 +1224,7 @@ status open
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename ./graphics/frida.svg
+	filename graphics/frida.svg
 	scale 50
 
 \end_inset
@@ -1274,7 +1274,7 @@ status open
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename ./graphics/friends.svg
+	filename graphics/friends.svg
 	scale 50
 
 \end_inset
@@ -1323,7 +1323,7 @@ status open
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename ./graphics/the_kiss.svg
+	filename graphics/the_kiss.svg
 	scale 50
 
 \end_inset
@@ -1368,7 +1368,7 @@ status open
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename ./graphics/learning.svg
+	filename graphics/learning.svg
 	scale 50
 
 \end_inset
@@ -1417,7 +1417,7 @@ status open
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename ./graphics/doggie_drawing.svg
+	filename graphics/doggie_drawing.svg
 	scale 50
 
 \end_inset
@@ -1466,7 +1466,7 @@ status open
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename ./graphics/dancers.svg
+	filename graphics/dancers.svg
 	scale 50
 
 \end_inset
@@ -1511,7 +1511,7 @@ status open
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename ./graphics/projector.svg
+	filename graphics/projector.svg
 	scale 50
 
 \end_inset
@@ -1556,7 +1556,7 @@ status open
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename ./graphics/moara.svg
+	filename graphics/moara.svg
 	scale 50
 
 \end_inset
@@ -1569,55 +1569,6 @@ status open
 
 \begin_layout Plain Layout
 Windmill
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage newpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Part
-Abstract
-\end_layout
-
-\begin_layout Standard
-Just some green scribble.
-\end_layout
-
-\begin_layout Standard
-\begin_inset Float figure
-wide false
-sideways false
-status open
-
-\begin_layout Plain Layout
-\align center
-\begin_inset Graphics
-	filename ./graphics/giani.svg
-	scale 50
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-Abstract
 \end_layout
 
 \end_inset
